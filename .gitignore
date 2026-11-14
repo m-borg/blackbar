@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+Icon?
+
+# Xcode user-specific & build files
+xcuserdata/
+DerivedData/
+build/
+.build/
+*.dSYM
+*.dSYM.zip
+
+# Exported app bundles & release archives (uploaded via GitHub Releases instead)
+*.app/
+BlackBar/BlackBar 20*/
+BlackBar/blackbar-v*/
+*.zip
+*.dmg
